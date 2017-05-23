@@ -5,6 +5,7 @@
 }
 body{
 	width: 100%;
+	height: 6020px;
 	min-width: 1000px;
 	position: relative;
 }
@@ -63,10 +64,10 @@ nav{
 
 .content1,.content2,.content3,.content4,.content5,.content6,.content7{
 	width: 100%;
-	height: 900px;
+	height: 980px;
 	background-image: url(images/b1_bg.jpg);
 	position: relative;
-	top: -517px;
+	top: -457px;
 	min-width: 1000px;
 	z-index: 1;
 }
@@ -75,7 +76,6 @@ nav{
 	height: 900px;
 	margin: 0 auto;
 	position: relative;
-	border: solid 1px red;
 	overflow: hidden;
 }
 .first img,.first1 img,.first2 img,.first3 img,.first4 img,.first5 img,.first6 img{
@@ -100,7 +100,7 @@ nav{
 				opacity: 1;
 			}
 }
-.first img:nth-child(3){
+.first img:nth-child(3){    
 	top: 300px;
 	left: 750px;
 }
