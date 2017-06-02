@@ -473,6 +473,30 @@ dl dd{
 	position: relative;
 }
 
+.uls ul li{
+	position: relative;
+	text-align: center;
+}
+
+.uls ul li img{
+	display: block;
+	position: absolute;
+	left: 50.5px;
+	
+}
+
+.uls ul li div{
+	margin-top: 80px;
+}
+.uls ul li div h2{
+	font-weight:lighter;
+	font-size: 1.5em;
+}
+.uls ul li div p{
+	font-size: 0.8em;
+	color: grey;
+}
+
 .top,.middle,.bottom{
 	width: 970px;
 	height: 152px;
